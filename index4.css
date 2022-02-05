@@ -1,0 +1,16 @@
+body{
+    position: relative;
+    background-image: url(fitness.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.form{
+position: absolute;
+background-color: rgb(183, 255, 255);
+border-radius: 20px;
+padding: 30px;
+top: 70px;
+left: 350px;
+}
